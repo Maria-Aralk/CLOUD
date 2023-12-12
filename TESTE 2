@@ -1,0 +1,36 @@
+Instruções do projeto
+Em uma inscrição, o usuário informou os seguintes dados:
+
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+1. o identificador das variáveis;
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+3. a utilização do comando de atribuição, apresentando identificador e dado.
+
+
+Identificadores das Variáveis:
+   - Nome: nomeUsuario
+   - CPF: cpfUsuario
+   - RG: rgUsuario
+   - Altura: alturaUsuario
+   - Endereço: enderecoUsuario
+
+2. Declaração das Variáveis com Seus Respectivos Identificadores e Tipos de Dados:
+   - nomeUsuario (Tipo: String)
+   - cpfUsuario (Tipo: String ou Número, dependendo da linguagem)
+   - rgUsuario (Tipo: String ou Número, dependendo da linguagem)
+   - alturaUsuario (Tipo: Float ou Número com Ponto Flutuante, dependendo da linguagem)
+   - enderecoUsuario (Tipo: String)
+
+3. Utilização do Comando de Atribuição, Apresentando Identificador e Dado:
+   - nomeUsuario = "José Almeida da Silva"
+   - cpfUsuario = "12345678900"
+   - rgUsuario = "9517530"
+   - alturaUsuario = 1.78
+   - enderecoUsuario = "Rua A, 380 – Centro – Recife/PE"
+
